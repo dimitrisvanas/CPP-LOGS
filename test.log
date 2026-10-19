@@ -1,0 +1,5 @@
+2026-10-19 07:00:01 INFO Starting up
+2026-10-19 07:00:02 ERROR Failed to open config
+2026-10-19 07:00:03 INFO Retrying
+2026-10-19 07:00:04 ERROR ERROR Disk full
+2026-10-19 07:00:05 INFO Done
